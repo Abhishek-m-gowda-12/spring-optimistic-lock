@@ -1,8 +1,6 @@
-package com.abhishek.spring.retry.config;
+package com.abhishek.springoptimisticlock.config;
 
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.retry.RetryCallback;
 import org.springframework.retry.RetryContext;
 import org.springframework.retry.listener.RetryListenerSupport;

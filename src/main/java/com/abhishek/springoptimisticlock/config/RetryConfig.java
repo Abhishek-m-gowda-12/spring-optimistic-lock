@@ -1,4 +1,4 @@
-package com.abhishek.spring.retry.config;
+package com.abhishek.springoptimisticlock.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

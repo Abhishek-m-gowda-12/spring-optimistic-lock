@@ -1,4 +1,4 @@
-package com.abhishek.spring.retry.controller;
+package com.abhishek.springoptimisticlock.controller;
 
 import com.abhishek.spring.retry.service.impl.RetryService;
 import org.springframework.web.bind.annotation.GetMapping;
